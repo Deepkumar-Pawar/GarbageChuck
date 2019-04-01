@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 2d6ebd20c09483349b69cdd675894158
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: balcony
+    100002: barrels
+    100004: boards
+    100006: boards_support
+    100008: chimneys
+    100010: cover_window
+    100012: //RootNode
+    100014: doors
+    100016: foundation
+    100018: gutters
+    100020: parapets
+    100022: roof
+    100024: roof_MeshPart0
+    100026: roof_MeshPart1
+    100028: roof_MeshPart2
+    100030: roof_support
+    100032: terrace
+    100034: walls
+    100036: window_roof
+    100038: windows
+    400000: balcony
+    400002: barrels
+    400004: boards
+    400006: boards_support
+    400008: chimneys
+    400010: cover_window
+    400012: //RootNode
+    400014: doors
+    400016: foundation
+    400018: gutters
+    400020: parapets
+    400022: roof
+    400024: roof_MeshPart0
+    400026: roof_MeshPart1
+    400028: roof_MeshPart2
+    400030: roof_support
+    400032: terrace
+    400034: walls
+    400036: window_roof
+    400038: windows
+    2300000: balcony
+    2300002: barrels
+    2300004: boards
+    2300006: boards_support
+    2300008: chimneys
+    2300010: cover_window
+    2300012: doors
+    2300014: foundation
+    2300016: gutters
+    2300018: parapets
+    2300020: roof_MeshPart0
+    2300022: roof_MeshPart1
+    2300024: roof_MeshPart2
+    2300026: roof_support
+    2300028: terrace
+    2300030: walls
+    2300032: window_roof
+    2300034: windows
+    3300000: balcony
+    3300002: barrels
+    3300004: boards
+    3300006: boards_support
+    3300008: chimneys
+    3300010: cover_window
+    3300012: doors
+    3300014: foundation
+    3300016: gutters
+    3300018: parapets
+    3300020: roof_MeshPart0
+    3300022: roof_MeshPart1
+    3300024: roof_MeshPart2
+    3300026: roof_support
+    3300028: terrace
+    3300030: walls
+    3300032: window_roof
+    3300034: windows
+    4300000: window_roof
+    4300002: walls
+    4300004: windows
+    4300006: parapets
+    4300008: doors
+    4300010: foundation
+    4300012: roof_support
+    4300014: boards
+    4300016: boards_support
+    4300018: chimneys
+    4300020: terrace
+    4300022: cover_window
+    4300024: balcony
+    4300026: barrels
+    4300028: gutters
+    4300030: roof_MeshPart0
+    4300032: roof_MeshPart1
+    4300034: roof_MeshPart2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foundation_brown_brick
+    second: {fileID: 2100000, guid: 09ff28c5872571346bd3a7bc620c6827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_window
+    second: {fileID: 2100000, guid: 8fc3d337c423e634a9f344d627191a5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_dark_brown
+    second: {fileID: 2100000, guid: 9f91f1ac451aa654f8edb070406195c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey
+    second: {fileID: 2100000, guid: b027954c96e6dde46bf9d10449f7dfd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaster_light_brown
+    second: {fileID: 2100000, guid: 96caf38e432dfd542af12e33f78ca141, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaster_sand
+    second: {fileID: 2100000, guid: b08ea9074e4330a48928352514d99f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plate_grey
+    second: {fileID: 2100000, guid: 43ead4479bdeb10489fb2dde0ade324d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_balls_brown
+    second: {fileID: 2100000, guid: d7c04218c33c9ac4687a497eb4bbf3f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_brown
+    second: {fileID: 2100000, guid: 461f497c28511c5468128436a92839b7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
